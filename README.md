@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Vicente Navas
 
-Soy **Desarrollador Web Full-Stack**, graduado en **Desarrollo de Aplicaciones Web (DAW)** y actualmente cursando un **Máster en Inteligencia Artificial y Big Data**. Me encanta combinar desarrollo web moderno, datos e IA para crear proyectos reales, especialmente dentro del mundo del **fútbol**.
+Soy **Desarrollador Web Full-Stack**, graduado en **Desarrollo de Aplicaciones Web (DAW)** y actualmente cursando un **Máster en Inteligencia Artificial y Big Data**. Me encanta combinar desarrollo web moderno, datos e IA para crear proyectos reales.
 
 ---
 
@@ -14,7 +14,7 @@ Soy **Desarrollador Web Full-Stack**, graduado en **Desarrollo de Aplicaciones W
 
 ### ⚙️ Backend & Bases de Datos
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,symfony,mongodb,mysql" height="70" />
+<img src="https://skillicons.dev/icons?i=php,symfony,mongodb,mysql,django,aws" height="70" />
 
 ### 🤖 IA, Big Data & Herramientas
 
@@ -24,16 +24,10 @@ Soy **Desarrollador Web Full-Stack**, graduado en **Desarrollo de Aplicaciones W
 
 ---
 
-
-## ⚽ Proyectos Destacados
-
-* 🏆 Red social de fútbol con feed + sistema de votos 1X2.
----
-
 ## 🎯 Objetivos Actuales
 
-* Profundizar en **IA aplicada**
-* Consolidarme como desarrollador **Full‑Stack con especialización en IA y Big Data**.
+* Profundizar en **IA aplicada** (ML, NLP, visión, predicción deportiva).
+* Consolidarme como desarrollador **Full-Stack con especialización en IA**.
 * Construir proyectos reales que mezclen **web + datos + IA**.
 
 ---
