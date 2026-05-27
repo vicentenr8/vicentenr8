@@ -12,7 +12,7 @@
 
 <!-- BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vicentenr8)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicentenr8@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=vicentenr8&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS)
 
 </div>
@@ -57,7 +57,6 @@ intereses:
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
@@ -130,14 +129,14 @@ Entrenado con **+5.000 partidos internacionales** y visualizado con **Plotly** e
 
 🔗 **Full-Stack**
 
-Desarrollo end-to-end: desde interfaces Angular/TS hasta APIs con Symfony, Django y bases de datos SQL/NoSQL.
+Desarrollo end-to-end: desde interfaces Angular/TS hasta APIs con Symfony y bases de datos SQL/NoSQL.
 
 </td>
 <td align="center" width="33%">
 
 🧠 **IA & Data**
 
-Modelos de ML, pipelines de datos, feature engineering y visualización avanzada para tomar decisiones basadas en datos.
+Modelos de ML, pipelines de datos, feature engineering, nlp, visión por computador, RAG y visualización avanzada para tomar decisiones basadas en datos.
 
 </td>
 <td align="center" width="33%">
@@ -159,7 +158,7 @@ Creo proyectos reales que combinan web + IA. No solo teoría: código, deploy y 
 ¿Tienes un proyecto interesante o una oportunidad? Me encantaría escucharte.
 
 [![LinkedIn](https://img.shields.io/badge/Conectemos_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vicentenr8)
-[![Email](https://img.shields.io/badge/Envíame_un_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
+[![Email](https://img.shields.io/badge/Envíame_un_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicentenr8@gmail.com)
 
 </div>
 
