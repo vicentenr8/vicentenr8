@@ -12,7 +12,6 @@
 
 <!-- BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vicentenr8)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vicentenr8.dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=vicentenr8&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS)
 
