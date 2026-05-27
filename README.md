@@ -1,19 +1,19 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:10B981&height=220&section=header&text=Vicente%20Navas&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20and%20Big%20Data%20Engineer&descSize=18&descAlignY=55&descColor=E2E8F0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:10B981&height=220&section=header&text=Vicente%20Navas&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20and%20Big%20Data%20Engineer&descSize=18&descAlignY=55&descColor=E2E8F0&animation=fadeIn" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Transformando+datos+en+decisiones+con+IA+%F0%9F%A7%A0;Building+intelligent+web+experiences+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Transformando+datos+en+decisiones+con+IA+%F0%9F%A7%A0 alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vicentenr8)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vicentenr8.dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
+[![Portfolio(En Progreso)](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vicentenr8.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicentenr8@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=vicentenr8&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS)
 
 </div>
@@ -28,7 +28,7 @@ ubicación: España 🇪🇸
 formación:
   - 🎓 Máster en Inteligencia Artificial y Big Data
   - 🎓 CFGS Desarrollo de Aplicaciones Web (DAW)
-rol_actual: Full-Stack Developer & AI Engineer
+rol_actual: Software Developer & AI Engineer
 intereses:
   - Machine Learning aplicado
   - Desarrollo web moderno
@@ -36,7 +36,7 @@ intereses:
   - Predicción deportiva con IA
 ```
 
-> **Desarrollador Full-Stack con formación especializada en IA y Big Data.**
+> **Software Developer con formación especializada en IA y Big Data.**
 > Combino desarrollo web moderno con modelos de Machine Learning para crear productos inteligentes, desde dashboards predictivos hasta aplicaciones web con backend de IA.
 
 ---
@@ -138,7 +138,7 @@ Desarrollo end-to-end: desde interfaces Angular/TS hasta APIs con Symfony, Djang
 
 🧠 **IA & Data**
 
-Modelos de ML, pipelines de datos, feature engineering y visualización avanzada para tomar decisiones basadas en datos.
+Modelos de ML, pipelines de datos, feature engineering, npl, RAGs y visualización avanzada para tomar decisiones basadas en datos.
 
 </td>
 <td align="center" width="33%">
@@ -160,7 +160,7 @@ Creo proyectos reales que combinan web + IA. No solo teoría: código, deploy y 
 ¿Tienes un proyecto interesante o una oportunidad? Me encantaría escucharte.
 
 [![LinkedIn](https://img.shields.io/badge/Conectemos_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vicentenr8)
-[![Email](https://img.shields.io/badge/Envíame_un_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
+[![Email](https://img.shields.io/badge/Envíame_un_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicentenr8@gmail.com)
 
 </div>
 
