@@ -5,14 +5,13 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Transformando+datos+en+decisiones+con+IA+%F0%9F%A7%A0 alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Transformando+datos+en+decisiones+con+IA+%F0%9F%A7%A0;Building+intelligent+web+experiences+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vicentenr8)
-[![Portfolio(En Progreso)](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vicentenr8.dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicentenr8@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=vicentenr8&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS)
 
