@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:10B981&height=220&section=header&text=Vicente%20Navas&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Big%20Data%20Engineer&descSize=18&descAlignY=55&descColor=E2E8F0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:10B981&height=220&section=header&text=Vicente%20Navas&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20and%20Big%20Data%20Engineer&descSize=18&descAlignY=55&descColor=E2E8F0&animation=fadeIn" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -12,7 +12,8 @@
 
 <!-- BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vicentenr8)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicentenr8@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vicentenr8.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=vicentenr8&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS)
 
 </div>
@@ -57,6 +58,7 @@ intereses:
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
@@ -109,9 +111,9 @@ Entrenado con **+5.000 partidos internacionales** y visualizado con **Plotly** e
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vicentenr8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=E2E8F0&ring_color=10B981" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vicentenr8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=E2E8F0&ring_color=10B981" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicentenr8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E2E8F0" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vicentenr8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E2E8F0" height="170"/>
 
 <br/><br/>
 
@@ -129,14 +131,14 @@ Entrenado con **+5.000 partidos internacionales** y visualizado con **Plotly** e
 
 🔗 **Full-Stack**
 
-Desarrollo end-to-end: desde interfaces Angular/TS hasta APIs con Symfony y bases de datos SQL/NoSQL.
+Desarrollo end-to-end: desde interfaces Angular/TS hasta APIs con Symfony, Django y bases de datos SQL/NoSQL.
 
 </td>
 <td align="center" width="33%">
 
 🧠 **IA & Data**
 
-Modelos de ML, pipelines de datos, feature engineering, nlp, visión por computador, RAG y visualización avanzada para tomar decisiones basadas en datos.
+Modelos de ML, pipelines de datos, feature engineering y visualización avanzada para tomar decisiones basadas en datos.
 
 </td>
 <td align="center" width="33%">
@@ -158,7 +160,7 @@ Creo proyectos reales que combinan web + IA. No solo teoría: código, deploy y 
 ¿Tienes un proyecto interesante o una oportunidad? Me encantaría escucharte.
 
 [![LinkedIn](https://img.shields.io/badge/Conectemos_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vicentenr8)
-[![Email](https://img.shields.io/badge/Envíame_un_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicentenr8@gmail.com)
+[![Email](https://img.shields.io/badge/Envíame_un_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
 
 </div>
 
