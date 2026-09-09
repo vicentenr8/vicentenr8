@@ -90,7 +90,7 @@ intereses:
 <td width="70">⚽🤖</td>
 <td>
 
-### [IA Predictor — FIFA World Cup 2026](https://github.com/vicentenr8/SIM_MUNDIAL2026)
+### [IA Predictor — FIFA World Cup 2026](https://github.com/vicentenr8/mundial2026)
 
 Simulador predictivo del Mundial 2026 con **XGBoost + Monte Carlo Tree Search**.
 Entrenado con **+5.000 partidos internacionales** y visualizado con **Plotly** en un dashboard **Streamlit** profesional.
